@@ -1,0 +1,112 @@
+table, th, td {
+    border: 1px solid cornflowerblue;
+    color: #e1e114;
+}
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+ul {
+    border: 1px solid red;
+    display: inline-block;
+}
+
+li {
+    color: antiquewhite;
+}
+
+#menu {
+    border: 5px outset red;
+    /*background-color: black;*/
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+#summary {
+    border: 5px outset red;
+    /*background-color: black;*/
+    max-width: 500px;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#spaceShooterLogo {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#div1 {
+    border: 10px outset red;
+    background-color: black;
+    text-align: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#div2 {
+    border: 5px outset yellow;
+    background-color: darkblue;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+#div3 {
+    border: 5px outset hotpink;
+    background-color: darkred;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+/*iframe {
+    border: 5px inset greenyellow;
+    margin-left: 10px;
+}*/
+
+/*img {
+    border: 5px inset white;
+    border-style: ridge;
+    margin-left: 10px;
+
+    padding: 0;
+    display: block;
+    max-height: 70%;
+    max-width: 70%;
+}*/

@@ -12,8 +12,12 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jIS383yQcbWuBoRK85jDqVLtH0" />
   <component name="ProjectViewState">
@@ -25,6 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -54,6 +65,7 @@
       <workItem from="1603814041521" duration="13000" />
       <workItem from="1603814071965" duration="6886000" />
       <workItem from="1603958006759" duration="1009000" />
+      <workItem from="1604170563383" duration="3016000" />
     </task>
     <servers />
   </component>
@@ -61,9 +73,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604170743584">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604170743584" />
     <state x="1700" y="278" key="FileChooserDialogImpl" timestamp="1603839016357">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1604172294526">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604172294526" />
   </component>
 </project>
