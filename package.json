@@ -1,0 +1,7 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "dependencies": {
+    "phaser": "^3.3.0"
+  }
+}
