@@ -41,11 +41,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hassa\OneDrive\Desktop\SpaceShooter\src\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,6 +67,7 @@
       <workItem from="1603958006759" duration="1009000" />
       <workItem from="1604170563383" duration="3016000" />
       <workItem from="1604174022976" duration="455000" />
+      <workItem from="1604434256907" duration="4007000" />
     </task>
     <servers />
   </component>
@@ -82,9 +83,13 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
-    <state x="168" y="162" key="run.anything.popup" timestamp="1604172294526">
+    <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604442658460">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="168" y="162" key="run.anything.popup/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604172294526" />
+    <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604442658460" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1604445324048">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604445324048" />
   </component>
 </project>
