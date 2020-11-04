@@ -7,11 +7,15 @@ body {
 }
 
 p {
-    color: white;
+    color: red;
+    text-align: left;
+    margin-left: 10px;
 }
 
 h1 {
-    color: white;
+    color: red;
+    text-align: left;
+    margin-left: 10px;
 }
 
 h2 {
@@ -42,6 +46,20 @@ li {
 }
 
 #summary {
+    border: 5px outset red;
+    /*background-color: black;*/
+    max-width: 500px;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#about {
     border: 5px outset red;
     /*background-color: black;*/
     max-width: 500px;
