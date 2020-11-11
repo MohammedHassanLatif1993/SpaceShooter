@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <workItem from="1604880117916" duration="272000" />
       <workItem from="1604952353975" duration="6433000" />
       <workItem from="1605043410592" duration="599000" />
-      <workItem from="1605046095211" duration="1600000" />
+      <workItem from="1605046095211" duration="1686000" />
     </task>
     <servers />
   </component>
@@ -127,10 +126,10 @@
     </state>
     <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
     <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604967080967">
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605050177075">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1604967080967" />
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605050177075" />
     <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604442658460">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
