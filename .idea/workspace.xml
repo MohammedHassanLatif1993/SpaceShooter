@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/images/SpaceShooter Project Plan.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/play.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jIS383yQcbWuBoRK85jDqVLtH0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -98,6 +106,7 @@
       <workItem from="1604952353975" duration="6433000" />
       <workItem from="1605043410592" duration="599000" />
       <workItem from="1605046095211" duration="1686000" />
+      <workItem from="1605136197863" duration="1539000" />
     </task>
     <servers />
   </component>
@@ -116,6 +125,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604170743584">
       <screen x="0" y="0" width="1024" height="728" />
@@ -126,10 +138,10 @@
     </state>
     <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
     <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605050177075">
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605138160427">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605050177075" />
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605138160427" />
     <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604442658460">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
