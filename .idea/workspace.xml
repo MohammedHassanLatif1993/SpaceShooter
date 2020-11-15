@@ -19,12 +19,84 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/images/SpaceShooter Project Plan.PNG" afterDir="false" />
+    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/content/images/Background/BackgroundOriginal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Background/BackgroundSolo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/Controls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/House.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/Negotiation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/StarTrekUniverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Design/map2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/Boy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/Girl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/SpaceShooter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/SpaceShooterEmblem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/Spock1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/TeamUp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/Web_Game_Character_Portrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/spr_harry_character_select.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Home &amp; Play/spr_tom_character_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Sprites/DurrrSpaceShip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Sprites/LargeBlueShip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Sprites/modular_ships.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Team/B00333837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Team/B00371477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Team/SpaceShooter Project Plan.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/Team/gantt chart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/B00333837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/B00371477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/BackgroundOriginal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/BackgroundSolo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Boy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Cardassians1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Controls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Ferengis1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Girl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/House.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Monster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Negotiation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/SpaceShooter Project Plan.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/SpaceShooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/SpaceShooterEmblem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Spock1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/StarTrekUniverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/TeamUp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Web_Game_Character_Portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/gantt chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/map2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/spr_harry_character_select.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/spr_tom_character_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/json-schema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/json-schema/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv-keywords/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/big.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/emojis-list/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/emojis-list/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eventemitter3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/exports-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/exports-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/imports-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/imports-loader/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json5/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loader-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loader-utils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/phaser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/phaser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/process/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/punycode/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/schema-utils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/strip-comments/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/strip-comments/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/util/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/design.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +106,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,15 +139,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fraser\Documents\UWS\YEAR 3\Web Games\SpaceShooter\content\images" />
       <recent name="C:\Users\Hassa\OneDrive\Desktop\SpaceShooter\src\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\content\images\design" />
+      <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,7 +180,9 @@
       <workItem from="1604952353975" duration="6433000" />
       <workItem from="1605043410592" duration="599000" />
       <workItem from="1605046095211" duration="1686000" />
-      <workItem from="1605136197863" duration="1539000" />
+      <workItem from="1605136197863" duration="1701000" />
+      <workItem from="1605384293139" duration="11944000" />
+      <workItem from="1605408152334" duration="1312000" />
     </task>
     <servers />
   </component>
@@ -127,25 +203,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604170743584">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604170743584" />
-    <state x="584" y="195" key="FileChooserDialogImpl" timestamp="1604570214858">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
-    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605138160427">
+    <state x="605" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605407242053">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605138160427" />
+    <state x="605" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605407242053" />
+    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604170743584" />
+    <state x="1460" y="279" key="FileChooserDialogImpl" timestamp="1605401938678">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1460" y="279" key="FileChooserDialogImpl/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605401938678" />
+    <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
+    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1605408167140">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605408167140" />
+    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1605408167140">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.center/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605408167140" />
+    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1605408167140">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.left/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605408167140" />
+    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1605408167140">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.right/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605408167140" />
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605408234838">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605408234838" />
     <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604442658460">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604442658460" />
+    <state x="155" y="0" width="1057" height="1026" key="dock-window-1" timestamp="1605396899998">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="155" y="0" width="1057" height="1026" key="dock-window-1/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605396899998" />
     <state x="168" y="162" key="run.anything.popup" timestamp="1604784409804">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
