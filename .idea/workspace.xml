@@ -29,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -108,6 +108,11 @@
       <workItem from="1605384293139" duration="11944000" />
       <workItem from="1605408152334" duration="10866000" />
       <workItem from="1605734915356" duration="1838000" />
+      <workItem from="1606517017411" duration="962000" />
+      <workItem from="1606517999742" duration="33000" />
+      <workItem from="1606953168677" duration="1372000" />
+      <workItem from="1606954687863" duration="295000" />
+      <workItem from="1606955004125" duration="894000" />
     </task>
     <servers />
   </component>
@@ -137,11 +142,12 @@
     </state>
     <state x="605" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605407242053" />
     <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604170743584" />
-    <state x="1460" y="279" key="FileChooserDialogImpl" timestamp="1605448646076">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1095" y="279" key="FileChooserDialogImpl" timestamp="1606518021259">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1460" y="279" key="FileChooserDialogImpl/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605448646076" />
     <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
+    <state x="1095" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1600.174.1600.860@0.0.1920.1040" timestamp="1606518021259" />
     <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
     <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1605737038109">
       <screen x="0" y="0" width="2560" height="1040" />
