@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/Design.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/Home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Play.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/Play.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Team.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/Team.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/WebPageScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/WebPageScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/dialog_plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/dialog_plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/phaser.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/phaser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/spacegame.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/spaceshootergame.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +45,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,7 +69,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Example 2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +88,7 @@
       <recent name="C:\Users\Hassa\OneDrive\Desktop\SpaceShooter\src\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\content\images\design" />
       <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
     </key>
@@ -108,11 +125,7 @@
       <workItem from="1605384293139" duration="11944000" />
       <workItem from="1605408152334" duration="10866000" />
       <workItem from="1605734915356" duration="1838000" />
-      <workItem from="1606517017411" duration="962000" />
-      <workItem from="1606517999742" duration="33000" />
-      <workItem from="1606953168677" duration="1372000" />
-      <workItem from="1606954687863" duration="295000" />
-      <workItem from="1606955004125" duration="894000" />
+      <workItem from="1607272934779" duration="6281000" />
     </task>
     <servers />
   </component>
@@ -135,55 +148,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="605" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605407242053">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="605" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605407242053" />
-    <state x="242" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604170743584" />
-    <state x="1095" y="279" key="FileChooserDialogImpl" timestamp="1606518021259">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1460" y="279" key="FileChooserDialogImpl/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605448646076" />
-    <state x="584" y="195" key="FileChooserDialogImpl/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604570214858" />
-    <state x="1095" y="279" key="FileChooserDialogImpl/0.0.1920.1040/-1600.174.1600.860@0.0.1920.1040" timestamp="1606518021259" />
-    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/-1360.196.1360.728@0.0.2560.1040" timestamp="1603839016357" />
-    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1605737038109">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.bottom/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605737038109" />
-    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1605737038108">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.center/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605737038108" />
-    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1605737038108">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.left/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605737038108" />
-    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1605737038109">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1256" height="279" key="GridCell.Tab.0.right/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605737038109" />
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605735102614">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1512" y="256" key="Vcs.Push.Dialog.v2/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605735102614" />
-    <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604442658460">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="329" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604442658460" />
-    <state x="155" y="0" width="1057" height="1026" key="dock-window-1" timestamp="1605396899998">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="155" y="0" width="1057" height="1026" key="dock-window-1/-1360.0.1360.728/0.0.2560.1040@0.0.2560.1040" timestamp="1605396899998" />
-    <state x="168" y="162" key="run.anything.popup" timestamp="1604784409804">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="168" y="162" key="run.anything.popup/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604784409804" />
-    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604520174836">
-      <screen x="0" y="0" width="1024" height="728" />
-    </state>
-    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728/-1600.-58.1600.860@0.0.1024.728" timestamp="1604520174836" />
   </component>
 </project>
