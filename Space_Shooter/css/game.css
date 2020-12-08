@@ -1,12 +1,12 @@
 @font-face {
     font-family: space;
-    src: url("../../content/fonts/spacerangersemital.ttf");
+    src: url("../assets/fonts/spacerangersemital.ttf");
 }
 
 html {
     /*   background-color: #0c164f;
        color: #fcfbfe;*/
-    background-image: url("../../content/images/background/Background.jpg");
+    background-image: url("../assets/images/background/Background.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment:fixed;

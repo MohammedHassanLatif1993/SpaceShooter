@@ -29,11 +29,11 @@ let openingText, gameOverText, playerWonText;
 const game = new Phaser.Game(config);
 
 function preload() {
-    this.load.image('ball', '../../content/images/test/ball_32_32.png');
-    this.load.image('brick1', '../../content/images/test/brick1_64_32.png');
-    this.load.image('brick2', '../../content/images/test/brick2_64_32.png');
-    this.load.image('brick3', '../../content/images/test/brick3_64_32.png');
-    this.load.image('paddle', '../../content/images/test/paddle_128_32.png');
+    this.load.image('ball', '../../assets/images/test/ball_32_32.png');
+    this.load.image('brick1', '../../assets/images/test/brick1_64_32.png');
+    this.load.image('brick2', '../../assets/images/test/brick2_64_32.png');
+    this.load.image('brick3', '../../assets/images/test/brick3_64_32.png');
+    this.load.image('paddle', '../../assets/images/test/paddle_128_32.png');
 }
 
 function create() {

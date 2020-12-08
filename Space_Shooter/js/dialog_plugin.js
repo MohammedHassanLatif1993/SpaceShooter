@@ -100,7 +100,7 @@ DialogModalPlugin.prototype = {
         }
     },
 
-    // Calcuate the position of the text in the dialog window
+    // Calculate the position of the text in the dialog window
     _setText: function (text) {
         // Reset the dialog
         if (this.text) this.text.destroy();

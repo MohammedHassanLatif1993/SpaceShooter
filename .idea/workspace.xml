@@ -19,7 +19,107 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/background/Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/Controls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/House.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/Map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/Map2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/Negotiation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/StarTrekUniverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/Boy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/Girl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/Helmcontrol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/SpaceShooter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/SpaceShooterEmblem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/Spock1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/TeamUp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/Web_Game_Character_Portrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/spr_harry_character_select.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/home &amp; play/spr_tom_character_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/DurrrSpaceShip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/LargeBlueShip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/modular_ships.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/team/B00333837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/team/B00371477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/team/SpaceShooter Project Plan.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/team/gantt chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/BackGroundObjects/starObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/Collectibles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/ShipObjects/cockpitObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/ShipObjects/engineObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/ShipObjects/gunObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/ShipObjects/wingObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/SpaceShip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/GameObjects/laserObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/Scenes/CheckPointScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/Scenes/LevelScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/Scenes/MenuScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/Scenes/PauseScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Level/deathScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Level/endOfLevelNotification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Level/healthBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Level/progressBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Menu/CheckpointNextDestinationPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Menu/CheckpointResultPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Menu/CheckpointUpgradePanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Menu/MainMenuImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Menu/MainMenuPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/UI/Pause.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/aiManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/collisions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/gameManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game/variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/audioManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/buttonsManagement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/colours.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/musicManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/planetNameGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Tool/textObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/css/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/dialog_plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/dialog_plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/phaser.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/phaser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/spaceshootergame.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/spaceshootergame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fonts/ethnocentric.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/fonts/ethnocentric.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fonts/spacerangersemital.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/fonts/spacerangersemital.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Background/Background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/Controls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/House.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/Negotiation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/StarTrekUniverse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Design/map2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/Boy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/Girl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/Helmcontrol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/SpaceShooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/SpaceShooterEmblem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/Spock1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/TeamUp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/Web_Game_Character_Portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/spr_harry_character_select.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Home &amp; Play/spr_tom_character_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Sprites/DurrrSpaceShip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Sprites/LargeBlueShip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Sprites/modular_ships.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Team/B00333837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Team/B00371477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Team/SpaceShooter Project Plan.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/Team/gantt chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/design/Monster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/Monster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/design/RomulanBirdOfPrey.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/design/RomulanBirdOfPrey.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/test/ball_32_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/test/ball_32_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/test/brick1_64_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/test/brick1_64_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/test/brick2_64_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/test/brick2_64_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/test/brick3_64_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/test/brick3_64_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/test/paddle_128_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/test/paddle_128_32.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +129,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -53,7 +153,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Example 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../StudentExample1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +172,8 @@
       <recent name="C:\Users\Hassa\OneDrive\Desktop\SpaceShooter\src\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js\Game\UI" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js\Game" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\content\images\design" />
       <recent name="C:\Users\Hassa\OneDrive\Desktop\Web Games Development\SpaceShooter\content\images" />
@@ -109,7 +211,8 @@
       <workItem from="1605384293139" duration="11944000" />
       <workItem from="1605408152334" duration="10866000" />
       <workItem from="1605734915356" duration="1838000" />
-      <workItem from="1607272934779" duration="6339000" />
+      <workItem from="1607272934779" duration="6547000" />
+      <workItem from="1607360379277" duration="6038000" />
     </task>
     <servers />
   </component>
