@@ -19,54 +19,54 @@ function createPausePanel(context) {
     let pause = {
 
         //Current played status.
-        currentSceneContext : null,
+        currentSceneContext: null,
 
         //Adding a darker background to show when the player presses the pause button.
-        backgroundImage : null,
-        backgroundObject : null,
-        backgroundAlpha : 0.5,
+        backgroundImage: null,
+        backgroundObject: null,
+        backgroundAlpha: 0.5,
 
         //Menu Panel object
-        panelImage : null,
-        panelObject : null,
+        panelImage: null,
+        panelObject: null,
 
         //Button object.
-        pauseImage : "pause",
-        pauseGameObject : null,
+        pauseImage: "pause",
+        pauseGameObject: null,
 
         //Pause menu text object.
-        pauseTextObject : null,
-        pauseTextIndex : 0,
+        pauseTextObject: null,
+        pauseTextIndex: 0,
 
         //Changing the keyboard layout
-        keyBoardMoveImage : "KeyBoardWASD",
-        keyBoardMoveGameObject : null,
-        keyBoardMoveTextObject : null,
-        keyBoardMoveTextValue : "Change keyboard",
-        keyBoardDown : false,
+        keyBoardMoveImage: "KeyBoardWASD",
+        keyBoardMoveGameObject: null,
+        keyBoardMoveTextObject: null,
+        keyBoardMoveTextValue: "Change keyboard",
+        keyBoardDown: false,
 
         //Music button.
-        musicButtonImage : "music",
-        musicButtonGameObject : null,
+        musicButtonImage: "music",
+        musicButtonGameObject: null,
 
         //Sound button.
-        soundButtonImage : "sound",
-        soundButtonGameObject : null,
+        soundButtonImage: "sound",
+        soundButtonGameObject: null,
 
         //Resume button.
-        resumeButtonImage : "resume",
-        resumeButtonGameObject : null,
+        resumeButtonImage: "resume",
+        resumeButtonGameObject: null,
 
         //Back to the main menu object with text.
-        exitToMenuButtonImage : "exit",
-        exitToMenuButtonGameObject : null,
-        exitToMenuButtonTextObject : null,
-        exitToMenuButtonTextValue : "Exit to menu",
+        exitToMenuButtonImage: "exit",
+        exitToMenuButtonGameObject: null,
+        exitToMenuButtonTextObject: null,
+        exitToMenuButtonTextValue: "Exit to menu",
 
         /**
          * Initialising the pause menu objects
          * */
-        init : function(context) {
+        init: function (context) {
 
             //Creating and setting the background in the pause menu
             this.backgroundImage = "space" + difficulty;
@@ -83,12 +83,12 @@ function createPausePanel(context) {
 
             //Creating and setting the main menu panel object.
             this.panelImage = "window";
-            this.panelObject = context.physics.add.image(canvasWidth /2, canvasHeightMiddle, this.panelImage);
+            this.panelObject = context.physics.add.image(canvasWidth / 2, canvasHeightMiddle, this.panelImage);
             this.panelObject.setDisplaySize(200, 300);
             this.panelObject.alpha = 0;
 
             //Creating the panel title.
-            this.pauseTextObject = createText(context, "", canvasWidth /2 - (4*16), 105, 40, blueColor);
+            this.pauseTextObject = createText(context, "", canvasWidth / 2 - (4 * 16), 105, 40, blueColor);
 
             //Initialising the buttons for getting to the pause menu or exiting it.
             this.initButtons(context);
@@ -101,9 +101,9 @@ function createPausePanel(context) {
         },
 
         /**
-        * Initialising the pause menu objects
-        * */
-        initButtons : function(context) {
+         * Initialising the pause menu objects
+         * */
+        initButtons: function (context) {
             //Creating and setting the button to access the pause menu in the game.
             this.pauseGameObject = context.physics.add.image(canvasWidth - 50, 50, this.pauseImage);
             this.pauseGameObject.setDisplaySize(50, 50);
@@ -129,7 +129,7 @@ function createPausePanel(context) {
             this.exitToMenuButtonGameObject = context.physics.add.image(this.panelObject.x - 40, this.panelObject.y + this.panelObject.displayWidth - 45, this.exitToMenuButtonImage);
             this.exitToMenuButtonGameObject.alpha = 0;
             this.exitToMenuButtonGameObject.setDisplaySize(200, 70);
-            this.exitToMenuButtonTextObject = createText(context, this.exitToMenuButtonTextValue, this.exitToMenuButtonGameObject.x - this.exitToMenuButtonTextValue.length*5.8 , this.exitToMenuButtonGameObject.y - 13, 20, whiteColor);
+            this.exitToMenuButtonTextObject = createText(context, this.exitToMenuButtonTextValue, this.exitToMenuButtonGameObject.x - this.exitToMenuButtonTextValue.length * 5.8, this.exitToMenuButtonGameObject.y - 13, 20, whiteColor);
             this.exitToMenuButtonTextObject.gameObject.alpha = 0;
             activateButton(this.exitToMenuButtonGameObject, this.exitToMenuButtonImage, false);
             this.exitToMenuButtonGameObject.on("pointerdown", () => {
@@ -144,7 +144,7 @@ function createPausePanel(context) {
          * Initialising the button for switching the keyboard layout
          * Going from QWERTY to DVORAK
          */
-        initKeyBoard : function(context) {
+        initKeyBoard: function (context) {
 
             //Initialises the image button.
             this.keyBoardMovGameObject = context.physics.add.image(this.panelObject.x, this.panelObject.y - 70, this.keyBoardMoveImage);
@@ -160,10 +160,10 @@ function createPausePanel(context) {
 
             this.keyBoardMoveGameObject.on("pointerdown", () => {
                 //Manage the possible multi click.
-                if(!this.keyBoardDown) {
+                if (!this.keyBoardDown) {
 
                     //Switch the keyboard.
-                    if(this.keyBoardMoveImage === "KeyBoardZQSD") {
+                    if (this.keyBoardMoveImage === "KeyBoardZQSD") {
                         this.keyBoardMoveImage = "KeyBoardWASD";
                         changeKeyBoard(true);
                     } else {
@@ -182,8 +182,9 @@ function createPausePanel(context) {
             });
 
             //Creates the text object associated.
-            this.keyBoardMoveTextObject = createText(context, this.keyBoardMoveTextValue, this.panelObject.x - 90, this.panelObject.y -140, 20, whiteColor);
+            this.keyBoardMoveTextObject = createText(context, this.keyBoardMoveTextValue, this.panelObject.x - 90, this.panelObject.y - 140, 20, whiteColor);
             this.keyBoardMoveTextObject.gameObject.alpha = 0;
             this.keyBoardMoveGameObject.alpha = 0;
+        }
     }
 }
