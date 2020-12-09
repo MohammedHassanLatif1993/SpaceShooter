@@ -144,7 +144,46 @@ function createPausePanel(context) {
          * Initialising the button for switching the keyboard layout
          * Going from QWERTY to DVORAK
          */
+        initKeyBoard : function(context) {
 
+            //Initialises the image button.
+            this.keyBoardMovGameObject = context.physics.add.image(this.panelObject.x, this.panelObject.y - 70, this.keyBoardMoveImage);
+            this.keyBoardMovGameObject.setDisplaySize(150, 99);
+            this.keyBoardMovGameObject.setInteractive();
+            this.keyBoardMovGameObject.on("pointerover", () => {
+                this.keyBoardMoveGameObject.setTexture(this.keyBoardMoveImage + "Over");
+            });
 
+            this.keyBoardMoveGameObject.on("pointerout", () => {
+                this.keyBoardMoveGameObject.setTexture(this.keyBoardMoveImage);
+            });
+
+            this.keyBoardMoveGameObject.on("pointerdown", () => {
+                //Manage the possible multi click.
+                if(!this.keyBoardDown) {
+
+                    //Switch the keyboard.
+                    if(this.keyBoardMoveImage === "KeyBoardZQSD") {
+                        this.keyBoardMoveImage = "KeyBoardWASD";
+                        changeKeyBoard(true);
+                    } else {
+                        this.keyBoardMoveImage = "KeyBoardZQSD";
+                        changeKeyBoard(false);
+                    }
+                    this.keyBoardDown = true;
+                    //Switch the image.
+                    this.keyBoardMoveGameObject.setTexture(this.keyBoardMoveImage);
+                }
+            });
+
+            //Manage to be able to click again on the button after outclick it.
+            this.keyBoardMoveGameObject.on("pointerup", () => {
+                this.keyBoardDown = false;
+            });
+
+            //Creates the text object associated.
+            this.keyBoardMoveTextObject = createText(context, this.keyBoardMoveTextValue, this.panelObject.x - 90, this.panelObject.y -140, 20, whiteColor);
+            this.keyBoardMoveTextObject.gameObject.alpha = 0;
+            this.keyBoardMoveGameObject.alpha = 0;
     }
 }
