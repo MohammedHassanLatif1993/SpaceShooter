@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/fonts/spacefont/spacefont.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/fonts/spacefont/spacefont.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/background/starfield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/boss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/death-ray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/enemy-blue-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/enemy-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/enemy-green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/explode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprites/player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/Game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SpaceShooter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpaceShooter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/spaceshootergame.js" beforeDir="false" />
-    </list>
+    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +118,7 @@
       <workItem from="1607360379277" duration="6122000" />
       <workItem from="1607449695173" duration="1540000" />
       <workItem from="1607534217824" duration="1591000" />
-      <workItem from="1607800967787" duration="8126000" />
+      <workItem from="1607800967787" duration="8164000" />
     </task>
     <servers />
   </component>
