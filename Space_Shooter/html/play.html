@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="../js/WebPageScript.js"></script>
 <script src="//cdn.jsdelivr.net/npm/phaser@3.24.1/dist/phaser.js"></script>
-<script src="../js/spaceshootergame.js"></script>
+<script src="../js/Game.js"></script>
 
 <style>
     body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto Light", sans-serif}
@@ -27,26 +27,26 @@
 
 <!--- This is where the text/javascript and the states/levels/prefabs/levels and the main j.s will be loaded into --->
 <head>
-<script type="text/javascript" src="../js/phaser.js"></script>
-<!--<script type="text/javascript" src="Survival_Shooter/dialog_plugin.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/states/Boot.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/states/User_Interface.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/menu/MainMenu.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/menu/GameOver.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/menu/WinScreen.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/menu/MP_HowToPlay.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/player.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/Enemy.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/Boss.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/beam.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/enemyBeam.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/prefabs/health_pickUp.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_1_Intro.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_2_Character_Select.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_HowToPlay.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_3_Level.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/levels/mp/MP_Level.js"></script>
-<script type="text/javascript" src="Survival_Shooter/js/Main.js"></script>-->
+    <script type="text/javascript" src="../js/phaser.js"></script>
+    <!--<script type="text/javascript" src="Survival_Shooter/dialog_plugin.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/states/Boot.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/states/User_Interface.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/MainMenu.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/GameOver.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/WinScreen.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/MP_HowToPlay.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/player.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/Enemy.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/Boss.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/beam.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/enemyBeam.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/prefabs/health_pickUp.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_1_Intro.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_2_Character_Select.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_HowToPlay.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_3_Level.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/levels/mp/MP_Level.js"></script>
+    <script type="text/javascript" src="Survival_Shooter/js/Main.js"></script>-->
 </head>
 
 </body>
@@ -81,6 +81,16 @@
 <!-- Game Window -->
 <header class="w3-container w3-black w3-center" style="padding: 200px">
     <div id="space-shooter-game"></div>
+    <head>
+        <meta name="description" content="Phaser.js game demo" />
+        <meta charset="utf-8">
+        <title>Phaser.js game demo</title>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js" type="text/javascript"></script>
+        <script src="Game.js" type="text/javascript"></script>
+    </head>
+    <body>
+
+    </body>
 </header>
 
 <!-- How to Play -->
