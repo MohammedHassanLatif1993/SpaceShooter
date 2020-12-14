@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2020_01_49_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2020_01_49__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/assets/images/sprites" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpaceShooterTest" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -121,6 +123,7 @@
       <workItem from="1607449695173" duration="1540000" />
       <workItem from="1607534217824" duration="1591000" />
       <workItem from="1607800967787" duration="8180000" />
+      <workItem from="1607887625767" duration="1278000" />
     </task>
     <servers />
   </component>
