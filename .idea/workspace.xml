@@ -39,8 +39,8 @@
       <change beforePath="$PROJECT_DIR$/Space_Shooter/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Space_Shooter/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Space_Shooter/js/dialog_plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/game.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
   </component>
   <component name="ProjectId" id="1jIS383yQcbWuBoRK85jDqVLtH0" />
   <component name="ProjectLevelVcsManager">
@@ -145,7 +150,7 @@
       <workItem from="1607981359134" duration="5292000" />
       <workItem from="1609177716247" duration="5773000" />
       <workItem from="1609617635821" duration="1361000" />
-      <workItem from="1609696610856" duration="5285000" />
+      <workItem from="1609696610856" duration="7293000" />
     </task>
     <servers />
   </component>

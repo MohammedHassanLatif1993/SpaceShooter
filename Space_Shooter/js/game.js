@@ -1,4 +1,4 @@
-var game = new Phaser.Game(800,600, Phaser.AUTO, 'SpaceShooter',
+var game = new Phaser.Game(800,600, Phaser.AUTO, 'phaser-demo',
     {preload: preload,
         create: create,
         update: update,
@@ -361,25 +361,24 @@ function create() {
     gameOver.y = gameOver.y - gameOver.textHeight / 3;
     gameOver.visible = false;
 }
+var button = this.add.image(800-16, 16, 'fullscreen', 0).setOrigin(1, 0).setInteractive();
 
-// const button = this.add.image(800 - 16, 16, 'fullscreen', 0).setOrigin(1, 0).setInteractive();
-//
-// button.on('pointerup', function () {
-//
-//     if (this.scale.isFullscreen)
-//     {
-//         button.setFrame(0);
-//
-//         this.scale.stopFullscreen();
-//     }
-//     else
-//     {
-//         button.setFrame(1);
-//
-//         this.scale.startFullscreen();
-//     }
-//
-// }, this);
+button.on('pointerup', function () {
+
+    if (this.scale.isFullscreen)
+    {
+        button.setFrame(0);
+
+        this.scale.stopFullscreen();
+    }
+    else
+    {
+        button.setFrame(1);
+
+        this.scale.startFullscreen();
+    }
+
+}, this);
 
 this.scoreText.setText('v15');
 
