@@ -8,8 +8,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim&family=Roboto&display=swap">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="../js/WebPageScript.js"></script>
-<script src="//cdn.jsdelivr.net/npm/phaser@3.24.1/dist/phaser.js"></script>
-<script src="../js/Game.js"></script>
+<script src="//cdn.jsdelivr.net/npm/phaser@3.50.0/dist/phaser.js"></script>
 
 <style>
     body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto Light", sans-serif}
@@ -25,96 +24,38 @@
     </div>
 </div>
 
-<!--- This is where the text/javascript and the states/levels/prefabs/levels and the main j.s will be loaded into --->
-<head>
-    <script type="text/javascript" src="../js/phaser.js"></script>
-    <!--<script type="text/javascript" src="Survival_Shooter/dialog_plugin.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/states/Boot.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/states/User_Interface.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/MainMenu.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/GameOver.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/WinScreen.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/menu/MP_HowToPlay.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/player.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/Enemy.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/Boss.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/beam.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/enemyBeam.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/prefabs/health_pickUp.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_1_Intro.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_2_Character_Select.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_HowToPlay.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/sp/SP_3_Level.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/levels/mp/MP_Level.js"></script>
-    <script type="text/javascript" src="Survival_Shooter/js/Main.js"></script>-->
-</head>
-
-</body>
-
 <!-- Navbar -->
 <div class="w3-top">
     <div class="w3-bar w3-green w3-card w3-left-align w3-large">
         <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-        <a href="home.html" class="w3-bar-item w3-button w3-padding-large w3-hover-white">Home</a>
-        <a href="play.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-white">Play</a>
+        <a href="home.html" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+        <a href="play.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Play</a>
         <a href="design.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Design</a>
         <a href="team.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">The Team</a>
     </div>
 </div>
 
-<!-- Header
-<header class="w3-container w3-black w3-center" style="padding:128px 16px; background-image: url('../../assets/images/home & play/SpaceShooterEmblem.png'); background-repeat: no-repeat; background-size: 800px 800px; background-position: center">
-    <h1 class="w3-margin w3-jumbo"></h1>
-    <p class="w3-xlarge" style="padding-top: 512px"><br>A game by Hassan Latif and Fraser McAulay 2020-2021 students<br></p>
-    <button class="w3-button w3-green w3-padding-large w3-large w3-margin-top" onclick="window.location='play.html'">Play</button>
-</header>-->
+<!-- Header -->
+<header class="w3-container w3-black w3-center">
 
-<!-- Video Demo
-<div class="w3-row-padding w3-black w3-padding-64 w3-container">
-    <div class="w3-assets">
-        <iframe width="896" height="504" src="https://www.youtube.com/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-        </iframe>
-    </div>
-</div>
-</div>-->
-
-<!-- Game Window -->
-<header class="w3-container w3-black w3-center" style="padding: 200px">
-    <div id="space-shooter-game"></div>
-    <head>
-        <meta name="description" content="Phaser.js game demo" />
-        <meta charset="utf-8">
-        <title>Phaser.js game demo</title>
-        <script src="http://cdnjs.cloudflare.com/ajax/libs/phaser/2.0.5/phaser.min.js" type="text/javascript"></script>
-        <script src="Game.js" type="text/javascript"></script>
-    </head>
-    <body>
-
-    </body>
 </header>
 
-<!-- How to Play -->
-<div class="w3-row-padding w3-padding-64 w3-container w3-black">
-    <div class="w3-content">
-        <div class="w3-twothird w3-text-white">
-            <h1>How to Play</h1>
-            <h5 class="w3-padding-32">
-                Use the mouse to navigate the menus. Player 1 uses the W, A, S, D keys to move and Space-bar to attack in the direction they are facing.
-                Player 2 uses the Arrow keys to move, NumPad 0 to attack. You must defeat the Romulan Republican Force enemies and get to Romulus to broker the treaty to bring peace between the Federation and the Romulan Empire!
-            </h5>
 
-            <p class="w3-text-white"></p>
-        </div>
+<head>
+    <meta name="description" content="Phaser.js SpaceShooter" />
+    <meta charset="utf-8">
+    <title>Phaser.js game demo</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.50.0/phaser.js" type="text/javascript"></script>
+    <script src="../js/game.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="../css/game.css">
+</head>
+<body>
 
-        <div class="w3-third w3-center">
-            <img src="../assets/images/home%20&%20play/Helmcontrol.png" height="300" width="500">
-        </div>
+<a href="home.html">
+    <div id="backButton" class="button">
+        Back
     </div>
-</div>
-
-<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge"></h1>
-</div>
-
+</a>
+</body>
 </body>
 </html>
