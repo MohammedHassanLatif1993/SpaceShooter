@@ -20,26 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/alien-ship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/alt-background-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/asteroid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/boss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/death-ray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemy-blue-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemy-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemy-green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/explode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/red-bullet.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/starfield.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/dialog_plugin.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Space_Shooter/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/game.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -150,7 +131,10 @@
       <workItem from="1607981359134" duration="5292000" />
       <workItem from="1609177716247" duration="5773000" />
       <workItem from="1609617635821" duration="1361000" />
-      <workItem from="1609696610856" duration="7293000" />
+      <workItem from="1609696610856" duration="7325000" />
+      <workItem from="1609869521436" duration="610000" />
+      <workItem from="1609949642202" duration="1795000" />
+      <workItem from="1610137494796" duration="2168000" />
     </task>
     <servers />
   </component>

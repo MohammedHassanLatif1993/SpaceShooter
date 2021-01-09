@@ -1,9 +1,20 @@
-var game = new Phaser.Game(800,600, Phaser.AUTO, 'phaser-demo',
-    {preload: preload,
-        create: create,
-        update: update,
-        render: render}
-);
+var config = {
+    type: Phaser.AUTO,
+    width: 800,
+    height: 600,
+    physics: {
+        default: 'arcade',
+        arcade: {
+            gravity: { y: 200 }
+        }
+    },
+    scene: {
+        preload: preload,
+        create: create
+    }
+};
+
+var game = new Phaser.Game(config);
 
 var player;
 var greenEnemies;
