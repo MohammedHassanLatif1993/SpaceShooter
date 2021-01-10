@@ -1,8 +1,9 @@
 var game = new Phaser.Game(800,600, Phaser.AUTO, 'SpaceShooter',
-    {preload: preload,
+    {
+        preload: preload,
         create: create,
         update: update,
-        render: render}
+    }
 );
 
 var player;
@@ -50,11 +51,10 @@ function preload() {
 
     //load custom images
     game.load.image('player', '../assets/images/player.png');
-    game.load.image('background', '../assets/images/alt-background-1.jpg');
+    game.load.image('background', '../assets/images/background.jpg');
     game.load.image('bullet', '../assets/images/red-bullet.gif');
     game.load.image('enemy-blue', '../assets/images/alien-ship.png');
     game.load.image('boss', '../assets/images/boss.png');
-    //game.load.spritesheet('fullscreen', '../assets/images/fullscreen.png', { frameWidth: 64, frameHeight: 64});
 }
 
 function create() {
@@ -72,7 +72,7 @@ function create() {
     bullets.setAll('checkWorldBounds', true);
 
     //  The player
-    player = game.add.sprite(500, 500, 'player');
+    player = game.add.sprite(400, 500, 'player');
     player.health = 1000;
     player.anchor.setTo(0.5, 0.5);
     game.physics.enable(player, Phaser.Physics.ARCADE);
@@ -86,7 +86,7 @@ function create() {
         shipTrail.start(false, 5000, 10);
     });
 
-    //  The enemies (greenEnemies group only below)
+    //  The enemeies (greenEnemies group only below)
     greenEnemies = game.add.group();
     greenEnemies.enableBody = true;
     greenEnemies.physicsBodyType = Phaser.Physics.ARCADE;
@@ -141,7 +141,7 @@ function create() {
     boss.exists = false;
     boss.alive = false;
     boss.anchor.setTo(0.5, 0.5);
-    boss.damageAmount = 20;
+    boss.damageAmount = 50;
     boss.angle = 180;
     boss.scale.x = 0.6;
     boss.scale.y = 0.6;
@@ -283,7 +283,7 @@ function create() {
     booster.makeParticles('blueEnemyBullet');
     booster.forEach(function(p){
         p.crop({x: 120, y: 0, width: 45, height: 50});
-        //  clever way of making 2 exhaust trails by shifting particles randomly left or right
+        //  clever way of making 2 exhaust trails by shifing particles randomly left or right
         p.anchor.x = game.rnd.pick([1,-1]) * 0.95 + 0.5;
         p.anchor.y = 0.75;
     });
@@ -361,43 +361,6 @@ function create() {
     gameOver.y = gameOver.y - gameOver.textHeight / 3;
     gameOver.visible = false;
 }
-var button = this.add.image(800-16, 16, 'fullscreen', 0).setOrigin(1, 0).setInteractive();
-
-button.on('pointerup', function () {
-
-    if (this.scale.isFullscreen)
-    {
-        button.setFrame(0);
-
-        this.scale.stopFullscreen();
-    }
-    else
-    {
-        button.setFrame(1);
-
-        this.scale.startFullscreen();
-    }
-
-}, this);
-
-this.scoreText.setText('v15');
-
-var FKey = this.input.keyboard.addKey('F');
-
-FKey.on('down', function () {
-
-    if (this.scale.isFullscreen)
-    {
-        button.setFrame(0);
-        this.scale.stopFullscreen();
-    }
-    else
-    {
-        button.setFrame(1);
-        this.scale.startFullscreen();
-    }
-
-}, this);
 
 function update() {
     //  Scroll the background
@@ -407,19 +370,26 @@ function update() {
     player.body.acceleration.x = 0;
     player.body.acceleration.y = 0;
 
-    if (cursors.left.isDown) {
+    if (cursors.left.isDown)
+    {
         player.body.acceleration.x = -ACCLERATION;
-    } else if (cursors.right.isDown) {
+    }
+    else if (cursors.right.isDown)
+    {
         player.body.acceleration.x = ACCLERATION;
-    } else if (cursors.up.isDown) {
+    }
+    else if (cursors.up.isDown)
+    {
         player.body.acceleration.y = -ACCLERATION;
-    } else if (cursors.down.isDown) {
+    }
+    else if (cursors.down.isDown)
+    {
         player.body.acceleration.y = ACCLERATION;
     }
 
     //  Stop at screen edges
-    if (player.x > game.width - 100) {
-        player.x = game.width - 100;
+    if (player.x > game.width - 50) {
+        player.x = game.width - 50;
         player.body.acceleration.x = 0;
     }
     if (player.x < 50) {
@@ -427,12 +397,12 @@ function update() {
         player.body.acceleration.x = 0;
     }
 
-    if (player.y > game.height - 100) {
-        player.y = game.height - 100;
+    if (player.y > game.height - 50) {
+        player.y = game.height - 50;
         player.body.acceleration.y = 0;
     }
 
-    if (player.y < 50) {
+    if(player.y < 50 ) {
         player.y = 50;
         player.body.acceleration.y = 0;
     }
@@ -454,24 +424,7 @@ function update() {
         fireBullet4();
     }
 
-    /*// Pointer lock will only work after mousedown
-    game.canvas.addEventListener('mousedown', function () {
-        game.input.mouse.requestPointerLock();
-    });
 
-    // Exit pointer lock when Q or escape (by default) is pressed.
-    this.input.keyboard.on('keydown_Q', function (event) {
-        if (game.input.mouse.locked)
-            game.input.mouse.releasePointerLock();
-    }, 0, this);
-
-    // Move reticle upon locked pointer move
-    this.input.on('pointermove', function (pointer) {
-        if (this.input.mouse.locked) {
-            reticle.x += pointer.movementX;
-            reticle.y += pointer.movementY;
-        }
-    }, this);*/
 
     //  Move ship towards mouse pointer
     if (game.input.x < game.width - 20 &&
@@ -710,6 +663,7 @@ function fireBullet1() {
     }
 }
 
+
 function launchGreenEnemy() {
     var ENEMY_SPEED = 300;
 
@@ -838,6 +792,7 @@ function shipCollide(player, enemy) {
     }
 }
 
+
 function hitEnemy(enemy, bullet) {
     var explosion = explosions.getFirstExists(false);
     explosion.reset(bullet.body.x + bullet.body.halfWidth, bullet.body.y + bullet.body.halfHeight);
@@ -856,6 +811,7 @@ function hitEnemy(enemy, bullet) {
     scoreText.render();
 
     //  Pacing
+
     //  Enemies come quicker as score increases
     greenEnemySpacing *= 0.9;
 
@@ -913,6 +869,7 @@ function enemyHitsPlayer (player, bullet) {
         playerDeath.start(false, 1000, 10, 10);
     }
 }
+
 
 function restart () {
     //  Reset the enemies
