@@ -21,13 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/Background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/DurrrSpaceShip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/alt-background-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/css/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/game.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/spaceGame.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/spaceGame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/phaser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/phaser.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -85,8 +80,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\audio" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images\sprites" />
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\fonts" />
@@ -146,7 +141,7 @@
       <workItem from="1610137494796" duration="2209000" />
       <workItem from="1610232039762" duration="19423000" />
       <workItem from="1610289646646" duration="298000" />
-      <workItem from="1610289963245" duration="22843000" />
+      <workItem from="1610289963245" duration="24416000" />
     </task>
     <servers />
   </component>
