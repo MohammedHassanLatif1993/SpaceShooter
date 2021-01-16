@@ -1,4 +1,5 @@
-# SpaceShooter
+# Deep Space Outlawz
  
-Space Shooter is a local 2D co-op top-down shooter which involves a fleet starships who must team up to help transport the vulcan peace negotiator Mr Spock to Romulus to help broker a peace treaty with Starfleet and the Romulan empire. Will you help keep Mr Spock safe and get him to Romulus on time to broker the peace treaty?
-The Cardassians and the Ferengi will try to stop you from reaching Romulus and try to attempt to thwart any negotiations between Starfleet and the Romulan empire. If you defeat the enemies, you will help bring everlasting peace to the galaxy.
+Far, far away from home and out of luck Sinestro is on the run for several crimes by the intergalactic government. He has a killer to tail, debit to pay and more trouble heading his way. The intergalactic government takes place in a greasy, blue collar world of outlaws, truckers, cops and thieves. 
+
+The goal of the game is to destroy as many outlaws, truckers, cops and thieves as possible without getting killed. When the player shoots a space cop or a thief, they get 10 points added onto their score, while shooting an asteroid is 5 points. The spaceship is controlled by moving the arrow keys up, down, right, and left to move as desired. To shoot the lasers at the space cops, thieves or asteroids the press the spacebar on the keyboard.
