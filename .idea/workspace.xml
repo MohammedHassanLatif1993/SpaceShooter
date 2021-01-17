@@ -20,7 +20,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/music/cyborg-ninja-by-kevin-macleod-from-filmmusic-io.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndBtnDown.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndBtnOver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndExplode0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndExplode1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndLaser.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/1200px-QWERTY_keyboard_diagram.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ArtFavor-Space-Pioneers-155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ArtFavor-Space-Pioneers-155.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip0NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip1NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip2NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ezgif-7-6c588647486d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/phaser-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/playerShipNEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlayDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlayHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestartDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestartHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprExplosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprLaserEnemy0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprLaserPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/entities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneGameOver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneMainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/SpaceShooterEmblem.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/SpaceShooterEmblem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Space_Shooter/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/game.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +108,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpaceShooterTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -79,11 +124,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js" />
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images" />
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\audio" />
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images\sprites" />
-      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\fonts" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\js" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\js\scenes" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\html" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\css" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images" />
@@ -146,6 +191,7 @@
       <workItem from="1610568643791" duration="4499000" />
       <workItem from="1610744632232" duration="50000" />
       <workItem from="1610744715093" duration="1217000" />
+      <workItem from="1610844358118" duration="514000" />
     </task>
     <servers />
   </component>
