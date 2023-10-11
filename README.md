@@ -1,4 +1,4 @@
-# Deep Space Outlawz
+# Deep Space Outlaw
  
 Far, far away from home and out of luck Norman Bates is on the run for several crimes by the intergalactic government. He has a killer to tail, debit to pay and more trouble heading his way. The intergalactic government takes place in a greasy, blue collar world of outlaws, truckers, cops and thieves. 
 
